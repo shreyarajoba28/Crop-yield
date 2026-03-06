@@ -1,0 +1,27 @@
+{
+  "select_crop": "पिक निवडा",
+  "select_season": "हंगाम निवडा",
+  "irrigation_type": "सिंचन प्रकार",
+  "Predict Yield": "उत्पन्न भाकीत करा",
+  "Logout": "लॉग आउट",
+  "crops": {
+    "Maize": "मका",
+    "Mesta": "मेस्टा",
+    "Moong": "मूग",
+    "Nigerseed": "तिळ",
+    "Nutri/Coarse Cereals": "पोषक / थोडे अनाज",
+    "Other Pulses": "इतर डाळी",
+    "Ragi": "रागी",
+    "Rapeseed & Mustard": "सिंबी आणि मोहरी",
+    "Safflower": "कुंकुम",
+    "Sannhemp": "सॅनहेम्प",
+    "Sesamum": "तिळ",
+    "Shree Anna / Nutri Cereals": "श्री अन्न / पोषक धान्य",
+    "Small Millets": "लहान बाजरी",
+    "Soybean": "सोयाबीन",
+    "Sunflower": "सूर्यफूल",
+    "Wheat": "गहू",
+    "Rice": "तांदूळ",
+    "Sugarcane": "उस"
+  }
+}

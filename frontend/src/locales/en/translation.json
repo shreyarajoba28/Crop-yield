@@ -1,0 +1,27 @@
+{
+  "select_crop": "Select Crop",
+  "select_season": "Select Season",
+  "irrigation_type": "Irrigation Type",
+  "Predict Yield": "Predict Yield",
+  "Logout": "Logout",
+  "crops": {
+    "Maize": "Maize",
+    "Mesta": "Mesta",
+    "Moong": "Moong",
+    "Nigerseed": "Nigerseed",
+    "Nutri/Coarse Cereals": "Nutri/Coarse Cereals",
+    "Other Pulses": "Other Pulses",
+    "Ragi": "Ragi",
+    "Rapeseed & Mustard": "Rapeseed & Mustard",
+    "Safflower": "Safflower",
+    "Sannhemp": "Sannhemp",
+    "Sesamum": "Sesamum",
+    "Shree Anna / Nutri Cereals": "Shree Anna / Nutri Cereals",
+    "Small Millets": "Small Millets",
+    "Soybean": "Soybean",
+    "Sunflower": "Sunflower",
+    "Wheat": "Wheat",
+    "Rice": "Rice",
+    "Sugarcane": "Sugarcane"
+  }
+}
