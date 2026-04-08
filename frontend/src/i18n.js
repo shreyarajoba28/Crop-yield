@@ -13,9 +13,13 @@ i18n
       hi: { translation: hi },
       mr: { translation: mr }
     },
-    lng: "en",
+    lng: localStorage.getItem("app_language") || "en",
     fallbackLng: "en",
     interpolation: { escapeValue: false }
   });
+
+i18n.on("languageChanged", (language) => {
+  localStorage.setItem("app_language", language);
+});
 
 export default i18n;

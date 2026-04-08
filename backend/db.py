@@ -1,7 +1,8 @@
 from pymongo import MongoClient
 
-client = MongoClient("mongodb://localhost:27017/")  # MongoDB Compass default
-db = client["crop_yield_db"]
+client = MongoClient("mongodb://localhost:27017")
+
+db = client["crop_prediction"]
 
 users_col = db["users"]
 predictions_col = db["predictions"]

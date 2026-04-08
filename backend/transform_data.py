@@ -1,5 +1,5 @@
 import pandas as pd
-
+# load the dataset into a dataframe for processing
 df = pd.read_csv("apy.csv")
 
 # Years available
@@ -18,7 +18,7 @@ for year in years:
     })
     
     final_data.append(temp)
-
+# combine all years into a single dataframe
 clean_df = pd.concat(final_data, ignore_index=True)
 
 # Remove rows with missing yield
